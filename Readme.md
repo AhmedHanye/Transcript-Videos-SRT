@@ -2,6 +2,7 @@
 
 This Python script allows you to generate subtitles for a video file by transcribing its audio content and optionally translating the text into different languages.
 
+### [Google Colab🎯](https://colab.research.google.com/drive/1qrxsADA7rQgzKj0FIzr0RM-y-YYXt3Rx?usp=sharing)
 ## How It Works
 
 1. Input Video: You provide the path to the video file.
