@@ -16,7 +16,7 @@ This Python script allows you to generate subtitles for a video file by transcri
 - [moviepy](https://zulko.github.io/moviepy/install.html) : Used for extracting audio from the video.
 - [ffmpeg](https://ffmpeg.org/) : A complete, cross-platform solution to record, convert and stream audio and video.
 - [whisper](https://github.com/openai/whisper) : Provides the transcription model.
-- [googletrans](https://py-googletrans.readthedocs.io/en/latest/) : Utilized for text translation.
+- [googletrans](https://py-googletrans.readthedocs.io/en/latest/) : Utilized for text translation. Note: if it didn't work ``` pip install googletrans==4.0.0-rc1 ```
 - [tqdm](https://pypi.org/project/tqdm/) : Displays a progress bar during transcription and translation.
 
 ## Note
